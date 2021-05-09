@@ -2,6 +2,7 @@
   "name": "employeedirectory",
   "version": "0.1.0",
   "private": true,
+  "homepage": " https://jrdrenth.github.io/employeedirectory",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.6",
@@ -40,6 +41,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "homepage": "https://myusername.github.io/my-app"
+  }
 }
