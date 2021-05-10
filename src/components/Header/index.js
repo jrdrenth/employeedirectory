@@ -3,9 +3,8 @@ import "./style.css";
 
 function Header () {
   return (
-    <header className="header">
+    <header>
       <h1>Employee Directory</h1>
-      {/* <p>Use filtering to narrow search results</p> */}
     </header>
   )
 }

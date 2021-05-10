@@ -1,0 +1,22 @@
+main {
+  margin: 0 auto;
+  width: 90%;
+}
+
+nav form {
+  margin: 0 auto;
+  justify-content: center;
+}
+
+thead th {
+  text-align: center;
+}
+tbody td {
+  text-align: center;
+}
+
+.caret {
+  color: darkred;
+  margin-left: 1rem;
+  font-size: 130%;
+}
